@@ -1,0 +1,2 @@
+# lighttpd_env_example
+lighttpdでCGIに環境変数を渡すサンプル
